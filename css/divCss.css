@@ -37,11 +37,23 @@ body{
     text-align: center;
 }
 .vuit{
-    font-size: 100yw ;
+    font-size: 100yw;
     font-family: 'Montserrat', sans-serif;
     line-height: normal;
 }
 
 .secun{
     color: darkgrey;
+}
+.icon{
+    color: black;
+    display: inline-block;
+    width: 1em;
+    height: 1em;
+    stroke-width: 0;
+    stroke: currentColor;
+    fill: currentColor;
+}
+.icones{
+    background-color: tomato;
 }
