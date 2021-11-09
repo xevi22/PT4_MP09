@@ -1,0 +1,28 @@
+.divi {
+    display: flex ;
+    align-items: start;
+
+}
+.lili{
+    margin-left: 25px;
+}
+.titolina{
+    margin-left: 50px;
+}
+.art{
+    margin-left: 300px;
+}
+
+.art:hover {
+    opacity: 0.5;
+}
+.color{
+    background-color: aquamarine;
+    color: coral;
+}
+.colore{
+    display: flex ;
+    align-items: end;
+    background-color: aquamarine;
+    color: coral;
+}
