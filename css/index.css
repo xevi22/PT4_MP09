@@ -1,7 +1,5 @@
 .divi {
     display: flex ;
-    align-items: start;
-
 }
 .lili{
     margin-left: 25px;
@@ -10,7 +8,8 @@
     margin-left: 50px;
 }
 .art{
-    margin-left: 300px;
+  
+    float:left;
 }
 
 .art:hover {
@@ -25,4 +24,16 @@
     align-items: end;
     background-color: aquamarine;
     color: coral;
+}
+.icon-search:before {
+    content: "\e986";
+  }
+h1{
+    font-size: 2em !important;
+    font-family: Arial !important;
+    text-shadow: 2px 2px #ffdd9d;
+
+}
+.art1{
+    margin-left: 30%;
 }
